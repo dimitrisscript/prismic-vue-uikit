@@ -1,6 +1,10 @@
+<!DOCTYPE html>
 <html>
 
 <head>
+  <title>wpt</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.6.16/dist/css/uikit.min.css" />
 </head>
 
